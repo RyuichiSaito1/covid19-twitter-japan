@@ -1,3 +1,3 @@
 ## Estimating Time-Series Changes in Social Sensitivity for COVID-19 @ Twitter in Japan
 
-This repository contains the input and output data for the research article entitled "Estimating Time-Series Changes in Social Sensitivity for COVID-19 @ Twitter in Japan" by Ryuichi Saito and Shinichiro Haruyama in 2022. The article is published [the J-Stage page](https://www.jstage.jst.go.jp/article/tjsai/37/3/37_37-3_C-L91/_article). 
+This repository contains the input and output data for the research article entitled "Estimating Time-Series Changes in Social Sensitivity for COVID-19 @ Twitter in Japan" by Ryuichi Saito and Shinichiro Haruyama in 2022. The article is published on [the J-Stage page](https://www.jstage.jst.go.jp/article/tjsai/37/3/37_37-3_C-L91/_article). 
